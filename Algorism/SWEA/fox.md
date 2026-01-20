@@ -41,4 +41,4 @@ def solve(text):
 
 # 테스트
 input_str = "ffoxox"
-print(solve(input_str))  # 결과: "" (빈 문자열)
+print(solve(input_str))  # 결과: "" (빈 문자열
