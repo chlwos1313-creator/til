@@ -4,7 +4,6 @@
 ---
 
 ### 🛠 Tech Stack
-### 🛠 Tech Stack
 
 **Data Analysis & Statistics**
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
@@ -20,7 +19,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
----
 
 ### 📂 Directory Structure
 * **Algorithm**: SWEA,백준,코드업등 알고리즘 문제 풀이 및 정리
