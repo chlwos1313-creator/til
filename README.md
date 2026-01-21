@@ -1,6 +1,6 @@
 # 📔 Learning Archive
-> 매일 조금씩 배운 내용들을 적어보고 성장을 기록하는 공간입니다.
-
+> 매일 조금씩 공부한 내용들을 기록하는 공간입니다.
+“Log it or lose it.”
 ---
 
 ### 🛠 Tech Stack
@@ -12,10 +12,6 @@
 ---
 
 ### 📂 Directory Structure
-* **Algorithm**: SWEA 알고리즘 문제 풀이 (Snail Number, Fox 등)
+* **Algorithm**: SWEA,백준,코드업등 알고리즘 문제 풀이 및 정리
 * **Language**: Python, SQL 등 학습 중인 언어 정리
-* **정보처리기사**: 정보처리기사 핵심 요약
-
----
-
-_“배운 것을 기록하고, 기록한 것을 내 것으로 만듭니다.”_
+* **정보처리기사**: 정보처리기사 핵심 정리
