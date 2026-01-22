@@ -1,6 +1,15 @@
 # 📔 Learning Archive
 > 매일 조금씩 공부한 내용들을 기록하는 공간입니다.
 > “Log it or lose it.”
+
+---
+
+### 📂 Directory Structure
+* **MD_Scrap**: 금융 IT/경제 뉴스 스크랩 및 인사이트 정리 (금융권 취업 준비)
+* **Algorithm**: SWEA, 백준, 코드업 등 알고리즘 문제 풀이 및 정리
+* **Language**: Python, SQL 등 학습 중인 언어 정리
+* **정보처리기사**: 정보처리기사 핵심 개념 및 오답 노트 정리
+
 ---
 
 ### 🛠 Tech Stack
@@ -20,7 +29,4 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
-### 📂 Directory Structure
-* **Algorithm**: SWEA,백준,코드업등 알고리즘 문제 풀이 및 정리
-* **Language**: Python, SQL 등 학습 중인 언어 정리
-* **정보처리기사**: 정보처리기사 핵심 정리
+---
